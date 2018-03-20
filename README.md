@@ -5,6 +5,7 @@ This repo contains Matt Chelen's ([Two Credits](https://twocredits.co)) solution
 
 Included in this repo are solutions to various projects in the following languages:
 
+* [Nim](https://github.com/twocredits/Projects/tree/master/Nim)
 * [Perl 6](https://github.com/twocredits/Projects/tree/master/Perl%206)
 
 You can find the original repo's readme file [here](https://github.com/twocredits/Projects/blob/master/README-original.md).
