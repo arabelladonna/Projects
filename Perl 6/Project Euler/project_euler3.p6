@@ -1,8 +1,6 @@
 my $largestPrime = 600851475143;
 
 loop (my $i = Int(sqrt(600851475143)); $i > 0; $i--) {
-  say $i;
-
   if isPrime($i) && 600851475143 %% $i {
     $largestPrime = $i;
     last;
