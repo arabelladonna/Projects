@@ -1,8 +1,6 @@
 Mega Project List
 ========
 
-*For a quick look at progress made on this project, see the [spreadsheet](https://docs.google.com/spreadsheets/d/1TrVVlLrOc-bgpoHQyKiNerAkIXR1PNESUKJT4mrYlG0/edit#gid=0).*
-
 This repo contains solutions to Karan Goel's Mega Project List. You can find the original Mega Project List repo [here](https://github.com/karan/Projects).
 
 Included in this repo are solutions to various projects in the following languages:
