@@ -1,5 +1,4 @@
 import clib
-import mlib
 
 importdll msvcrt =
     clang function  "_strdup"       (ref char)ref char
@@ -11,5 +10,4 @@ proc start=
     strcpy(&.str,"hello strdup")
     str2:=_strdup(&.str)
     println str2
-    pcm_freestr(str2)
 end
